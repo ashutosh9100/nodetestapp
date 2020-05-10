@@ -1,0 +1,19 @@
+{
+  "name": "nodetestapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashutosh9100/nodetestapp.git"
+  },
+  "author": "ashu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashutosh9100/nodetestapp/issues"
+  },
+  "homepage": "https://github.com/ashutosh9100/nodetestapp#readme"
+}
